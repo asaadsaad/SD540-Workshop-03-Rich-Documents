@@ -10,7 +10,7 @@ Read [MongoDB documentation](https://www.mongodb.com/docs/manual/indexes/) and t
   * How do we create an index?
   * What is the default index all collections have?
   * How many indexes can we create within a single collection?
-  * What data structure MongoDB use for an index?
+  * What data structure does MongoDB use for an index?
   * What is the time complexity for find, insert, and delete operations?
   * List a few types of indexes MongoDB supports.
   * Suggest a way to improve the performance of the previous find published posts query.
