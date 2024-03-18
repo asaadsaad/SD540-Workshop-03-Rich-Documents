@@ -5,12 +5,12 @@ Database as a service (DBaaS) is a cloud computing service model that provides a
 Write a function to find all of the published posts and paginate the results using [Mongoose paginate v2 plugin](https://www.npmjs.com/package/mongoose-paginate-v2). All Mongoose Schemas are pluggable, they allow applying pre-packaged capabilities to extend their functionality. Plugins are a tool for reusing logic in multiple schemas.
 #### Learn about Indexes:
 Read [MongoDB documentation](https://www.mongodb.com/docs/manual/indexes/) and the [provided guide](./DB-Indices.pdf) to learn about Indexes and answer the following questions:
-  * What are indexes and why we need them?
+  * What are indexes and why do we need them?
   * When do we create an index?
   * How do we create an index?
   * What is the default index all collections have?
   * How many indexes can we create within a single collection?
-  * What data structure MongoDB uses for an index?
+  * What data structure MongoDB use for an index?
   * What is the time complexity for find, insert, and delete operations?
   * List a few types of indexes MongoDB supports.
   * Suggest a way to improve the performance of the previous find published posts query.
